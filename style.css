@@ -17,6 +17,7 @@ body {
 
 }
 
+
 img {
     width: 100%;
 }
@@ -300,8 +301,6 @@ header {
     align-items: center;
     font-size: 3.125rem;
     color: #2b2b2b;
-    margin-top: 5rem;
-    
 }
 
 .yoge-classes {
